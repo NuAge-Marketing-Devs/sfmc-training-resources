@@ -1,1 +1,1 @@
-# sfmc-training-resources
+# SFMC Training Resources
