@@ -1,10 +1,12 @@
 # SFMC Training Resources
 
+Get Started With Marketing Cloud Trailmix: https://trailhead.salesforce.com/users/nataliyareb/trailmixes/marketing-cloud-training
 
-https://www.howtosfmc.com/community
+HowToSFMC: https://www.howtosfmc.com/community
 
 The AMPscript Guide: https://ampscript.guide/
 
+__________________________
 
 Blogs:
 
@@ -14,6 +16,7 @@ Lesley Higgins: https://www.lesleyhiggins.com/blog/categories/marketing-cloud
 
 sfmarketing.cloud: https://sfmarketing.cloud/
 
+__________________________
 
 Blog Posts:
 
