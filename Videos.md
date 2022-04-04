@@ -8,7 +8,7 @@ Add & Import Content in Email Studio & Content Builder: https://youtu.be/XIsVlKj
 Create a Content/Email Template: https://youtu.be/UcAuO7dllBI
 Creating an Email: https://youtu.be/Uq0w0MaLAuI
 Sending an Email: https://youtu.be/Upeq-v95suw
-Create Advanced Emails with Templates in Content Builder: https://youtu.be/oF1PvizO9l0.
+Create Advanced Emails with Templates in Content Builder: https://youtu.be/oF1PvizO9l0
 Tracking AMP Emails: https://youtu.be/A0Krdt8C2jQ
 Publication Lists: https://youtu.be/H1DQ41X4s54
 Global Unsubscribe Lists: https://www.youtube.com/watch?v=VPuMh1ERVCk
