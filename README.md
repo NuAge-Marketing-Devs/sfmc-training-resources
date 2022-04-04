@@ -6,21 +6,29 @@ HowToSFMC: https://www.howtosfmc.com/community
 
 The AMPscript Guide: https://ampscript.guide/
 
+Salesforce Marketing Cloud – Video Resources List by Tidbits For You: https://tidbitsforu.com/sfmc-video-resources/
+
 __________________________
 
 Blogs:
 
-ampscript.xyz: https://ampscript.xyz/
-
 Lesley Higgins: https://www.lesleyhiggins.com/blog/categories/marketing-cloud
 
+ampscript.xyz: https://ampscript.xyz/
+
 sfmarketing.cloud: https://sfmarketing.cloud/
+
+sfmc-curated: https://sfmc-curated.com/
+
+SFMC Geeks: https://sfmcgeeks.com/
 
 __________________________
 
 Blog Posts:
 
 How to connect Salesforce to a single Business Unit: https://www.lesleyhiggins.com/post/how-to-connect-salesforce-to-a-single-business-unit
+
+How To Segment Your Audience On Salesforce Marketing Cloud: https://sfdcfanboy.com/2020/04/05/how-to-segment-your-audience-on-salesforce-marketing-cloud/
 
 Find the nearest store/office to an Ad Studio Lead: https://www.lesleyhiggins.com/post/find-the-nearest-store-office-to-an-ad-studio-lead
 
@@ -33,6 +41,8 @@ How to pre-fill a form with AMPscript: https://ampscript.xyz/how-tos/prefill-for
 How to send an email with AMPscript: https://ampscript.xyz/how-tos/create-a-triggered-send/
 
 How to track AMP Email opens in Salesforce Marketing Cloud: https://ampscript.xyz/how-tos/how-to-track-amp-email-opens-in-salesforce-marketing-cloud/
+
+Managing email send frequency in SFMC: https://www.marketingcloud.guru/managing-email-send-frequency-in-sfmc-65b9fe86ba69
 
 Clearing a Data Extension with a SQL Query: https://sprignaturemoves.com/clearing-a-data-extension-with-a-sql-query/
 
