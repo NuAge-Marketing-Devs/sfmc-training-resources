@@ -2,9 +2,13 @@
 
 Get Started With Marketing Cloud Trailmix: https://trailhead.salesforce.com/users/nataliyareb/trailmixes/marketing-cloud-training
 
-HowToSFMC: https://www.howtosfmc.com/community
+Marketing Cloud Developer Center: https://developer.salesforce.com/developer-centers/marketing-cloud
+
+Marketing Cloud Postman API Collection: https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/14448118-2835a976-010c-4548-92f8-f42c0382758e?ctx=documentation
 
 The AMPscript Guide: https://ampscript.guide/
+
+HowToSFMC: https://www.howtosfmc.com/
 
 Salesforce Marketing Cloud – Video Resources List by Tidbits For You: https://tidbitsforu.com/sfmc-video-resources/
 
@@ -45,5 +49,3 @@ How to track AMP Email opens in Salesforce Marketing Cloud: https://ampscript.xy
 Managing email send frequency in SFMC: https://www.marketingcloud.guru/managing-email-send-frequency-in-sfmc-65b9fe86ba69
 
 Clearing a Data Extension with a SQL Query: https://sprignaturemoves.com/clearing-a-data-extension-with-a-sql-query/
-
-
